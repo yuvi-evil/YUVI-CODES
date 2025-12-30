@@ -1,0 +1,22 @@
+[
+  {
+    "key": "A1B2C3",
+    "device_id": "31c43710ed1a430f",
+    "duration": "30_days"
+  },
+  {
+    "key": "ABKHDJ",
+    "device_id": "31c43710ed1a430f",
+    "duration": "7_days"
+  },
+  {
+    "key": "DJB834",
+    "device_id": "31c43710ed1a430f",
+    "duration": "10_days"
+  },
+  {
+    "key": "X9Y8Z7",
+    "device_id": "another_device_id_here",
+    "duration": "lifetime"
+  }
+]
